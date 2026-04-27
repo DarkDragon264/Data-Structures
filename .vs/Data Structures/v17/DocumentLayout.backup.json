@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Gamemakin\\Code_Notes\\Data Structures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Gamemakin\\Code_Notes\\Data Structures\\Largest Rectangle_stacks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Largest Rectangle_stacks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Gamemakin\\Code_Notes\\Data Structures\\Sparse Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sparse Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Largest Rectangle_stacks.cpp",
+              "DocumentMoniker": "E:\\Gamemakin\\Code_Notes\\Data Structures\\Largest Rectangle_stacks.cpp",
+              "RelativeDocumentMoniker": "Largest Rectangle_stacks.cpp",
+              "ToolTip": "E:\\Gamemakin\\Code_Notes\\Data Structures\\Largest Rectangle_stacks.cpp",
+              "RelativeToolTip": "Largest Rectangle_stacks.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T18:47:16.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Sparse Arrays.cpp",
               "DocumentMoniker": "E:\\Gamemakin\\Code_Notes\\Data Structures\\Sparse Arrays.cpp",
               "RelativeDocumentMoniker": "Sparse Arrays.cpp",
               "ToolTip": "E:\\Gamemakin\\Code_Notes\\Data Structures\\Sparse Arrays.cpp",
               "RelativeToolTip": "Sparse Arrays.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-27T17:23:30.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Arrays_DS.cpp",
               "DocumentMoniker": "E:\\Gamemakin\\Code_Notes\\Data Structures\\Arrays_DS.cpp",
               "RelativeDocumentMoniker": "Arrays_DS.cpp",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Arrays_DS.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-27T16:48:26.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T16:48:26.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Height of a Binary_Tree.cpp",
               "DocumentMoniker": "E:\\Gamemakin\\Code_Notes\\Data Structures\\Height of a Binary_Tree.cpp",
               "RelativeDocumentMoniker": "Height of a Binary_Tree.cpp",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": ".gitignore",
               "DocumentMoniker": "E:\\Gamemakin\\Code_Notes\\Data Structures\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "inorder traversal_Tree.cpp",
               "DocumentMoniker": "E:\\Gamemakin\\Code_Notes\\Data Structures\\inorder traversal_Tree.cpp",
               "RelativeDocumentMoniker": "inorder traversal_Tree.cpp",
